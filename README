@@ -1,0 +1,1 @@
+This repository contains a python script that scrapes NCAA college basketball results from cbs.com and calculates each school's ELO rating. The date range to be scraped is hard-coded in the script.
