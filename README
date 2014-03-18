@@ -1,3 +1,2 @@
-This repository contains a python script that scrapes NCAA college basketball results from cbs.com and calculates each school's ELO rating. 
-The date range to be scraped is hard-coded in the script.
-This script is designed to run in Python 2.7. It should be able to run in other versions of Python with just slight modification.
+This repository contains a python application that scrapes NCAA basketball results from sports-reference.com and calculates each school's ELO rating.
+The application is run by using the ncaa_elo.py script. By default, the range of dates to be scraped is set to be the 2013-2014 regular season. These dates can be adjusted by resetting the startDate and endDate parameters in the Schedule class. This script is designed to run using Python 2.7. It should be able to run in other versions with slight modification.
