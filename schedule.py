@@ -13,7 +13,7 @@ class Schedule:
 
     baseURL = 'http://www.sports-reference.com/cbb/boxscores/index.cgi?'
 
-    def __init__(self, startDate=date(2013,11,1), endDate=date(2014,3,17)):
+    def __init__(self, startDate=date(2014,11,1), endDate=date(2015,3,15)):
         self.teamDict = {}
         self.scores = []
         period = endDate.toordinal() - startDate.toordinal()
