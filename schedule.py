@@ -1,6 +1,7 @@
 __author__ = 'afordyce'
 
 
+import HTMLParser
 import urllib
 import urllib2
 import re
@@ -13,13 +14,12 @@ class Schedule:
 
     baseURL = 'http://www.sports-reference.com/cbb/boxscores/index.cgi?'
 
-    def __init__(self, startDate=date(2014,11,1), endDate=date(2015,3,15)):
+    def __init__(self, startDate=date(2015,11,1), endDate=date(2016,3,15)):
         self.teamDict = {}
         self.scores = []
         period = endDate.toordinal() - startDate.toordinal()
         dateList = [startDate + timedelta(days=x) for x in range(period)]
-        m = re.compile("no_highlight stats_table wide_table.*?<td>.*?<td>(.*?)</td>.*?>(.*?)</td>" + \
-                       ".*?<td>(.*?)</td>.*?>(.*?)</td>", re.DOTALL)
+        m = re.compile("no_highlight stats_table.*?<td>.*?<tr>.*?<td.*?>[\(0-9\)]*(.*?)</td>.*?<td.*?>(.*?)</td>.*?<tr>.*?<td.*?>[\(0-9\)]*(.*?)</td>.*?<td.*?>(.*?)</td>", re.DOTALL)
         for d in dateList:
             print "Checking for games on " + str(d)
             args = urllib.urlencode({'month':d.month, 'day':d.day, 'year':d.year})
@@ -29,8 +29,9 @@ class Schedule:
             matches = m.finditer(page)
             for match in matches:
                 # stripping out html tags
-                team1 = re.sub("<.*?>", "", match.group(1))
-                team2 = re.sub("<.*?>", "", match.group(3))
+		h = HTMLParser.HTMLParser()
+                team1 = h.unescape(re.sub("<.*?>", "", match.group(1)))
+                team2 = h.unescape(re.sub("<.*?>", "", match.group(3)))
                 # final re.sub removes ranking from some times, e.g. (2)
                 game = {re.sub("\([0-9]*\) ", "", team1):int(match.group(2)),
                         re.sub("\([0-9]*\) ", "", team2):int(match.group(4))}
@@ -38,6 +39,7 @@ class Schedule:
             print "Game queue is now " + str(len(self.scores))
 
     def process(self):
+	print "Sanity check; first 10 scores: {0}".format(self.scores[:10])
         count = len(self.scores)
         for game in self.scores:
             for team in game.keys():

@@ -1,281 +1,274 @@
-Checking for games on 2013-11-01
+Checking for games on 2015-11-01
 Game queue is now 0
-Checking for games on 2013-11-02
+Checking for games on 2015-11-02
 Game queue is now 0
-Checking for games on 2013-11-03
+Checking for games on 2015-11-03
 Game queue is now 0
-Checking for games on 2013-11-04
+Checking for games on 2015-11-04
 Game queue is now 0
-Checking for games on 2013-11-05
+Checking for games on 2015-11-05
 Game queue is now 0
-Checking for games on 2013-11-06
+Checking for games on 2015-11-06
 Game queue is now 0
-Checking for games on 2013-11-07
+Checking for games on 2015-11-07
 Game queue is now 0
-Checking for games on 2013-11-08
-Game queue is now 135
-Checking for games on 2013-11-09
-Game queue is now 193
-Checking for games on 2013-11-10
-Game queue is now 226
-Checking for games on 2013-11-11
-Game queue is now 271
-Checking for games on 2013-11-12
-Game queue is now 353
-Checking for games on 2013-11-13
-Game queue is now 403
-Checking for games on 2013-11-14
-Game queue is now 435
-Checking for games on 2013-11-15
-Game queue is now 480
-Checking for games on 2013-11-16
-Game queue is now 556
-Checking for games on 2013-11-17
-Game queue is now 601
-Checking for games on 2013-11-18
-Game queue is now 648
-Checking for games on 2013-11-19
-Game queue is now 701
-Checking for games on 2013-11-20
-Game queue is now 743
-Checking for games on 2013-11-21
-Game queue is now 790
-Checking for games on 2013-11-22
-Game queue is now 850
-Checking for games on 2013-11-23
-Game queue is now 932
-Checking for games on 2013-11-24
-Game queue is now 977
-Checking for games on 2013-11-25
-Game queue is now 1025
-Checking for games on 2013-11-26
-Game queue is now 1103
-Checking for games on 2013-11-27
-Game queue is now 1143
-Checking for games on 2013-11-28
-Game queue is now 1162
-Checking for games on 2013-11-29
-Game queue is now 1229
-Checking for games on 2013-11-30
-Game queue is now 1318
-Checking for games on 2013-12-01
-Game queue is now 1362
-Checking for games on 2013-12-02
-Game queue is now 1385
-Checking for games on 2013-12-03
-Game queue is now 1427
-Checking for games on 2013-12-04
-Game queue is now 1491
-Checking for games on 2013-12-05
-Game queue is now 1514
-Checking for games on 2013-12-06
-Game queue is now 1527
-Checking for games on 2013-12-07
-Game queue is now 1641
-Checking for games on 2013-12-08
-Game queue is now 1663
-Checking for games on 2013-12-09
-Game queue is now 1674
-Checking for games on 2013-12-10
-Game queue is now 1701
-Checking for games on 2013-12-11
-Game queue is now 1720
-Checking for games on 2013-12-12
-Game queue is now 1726
-Checking for games on 2013-12-13
-Game queue is now 1734
-Checking for games on 2013-12-14
-Game queue is now 1824
-Checking for games on 2013-12-15
-Game queue is now 1862
-Checking for games on 2013-12-16
-Game queue is now 1880
-Checking for games on 2013-12-17
-Game queue is now 1926
-Checking for games on 2013-12-18
-Game queue is now 1972
-Checking for games on 2013-12-19
-Game queue is now 2003
-Checking for games on 2013-12-20
-Game queue is now 2026
-Checking for games on 2013-12-21
-Game queue is now 2133
-Checking for games on 2013-12-22
-Game queue is now 2179
-Checking for games on 2013-12-23
-Game queue is now 2206
-Checking for games on 2013-12-24
-Game queue is now 2206
-Checking for games on 2013-12-25
-Game queue is now 2210
-Checking for games on 2013-12-26
-Game queue is now 2210
-Checking for games on 2013-12-27
-Game queue is now 2219
-Checking for games on 2013-12-28
-Game queue is now 2291
-Checking for games on 2013-12-29
-Game queue is now 2330
-Checking for games on 2013-12-30
-Game queue is now 2394
-Checking for games on 2013-12-31
-Game queue is now 2425
-Checking for games on 2014-01-01
-Game queue is now 2445
-Checking for games on 2014-01-02
-Game queue is now 2513
-Checking for games on 2014-01-03
-Game queue is now 2525
-Checking for games on 2014-01-04
-Game queue is now 2652
-Checking for games on 2014-01-05
-Game queue is now 2675
-Checking for games on 2014-01-06
-Game queue is now 2693
-Checking for games on 2014-01-07
-Game queue is now 2712
-Checking for games on 2014-01-08
-Game queue is now 2767
-Checking for games on 2014-01-09
-Game queue is now 2835
-Checking for games on 2014-01-10
-Game queue is now 2842
-Checking for games on 2014-01-11
-Game queue is now 2981
-Checking for games on 2014-01-12
-Game queue is now 3005
-Checking for games on 2014-01-13
-Game queue is now 3025
-Checking for games on 2014-01-14
-Game queue is now 3041
-Checking for games on 2014-01-15
-Game queue is now 3091
-Checking for games on 2014-01-16
-Game queue is now 3165
-Checking for games on 2014-01-17
-Game queue is now 3169
-Checking for games on 2014-01-18
-Game queue is now 3320
-Checking for games on 2014-01-19
-Game queue is now 3334
-Checking for games on 2014-01-20
-Game queue is now 3359
-Checking for games on 2014-01-21
-Game queue is now 3375
-Checking for games on 2014-01-22
-Game queue is now 3425
-Checking for games on 2014-01-23
-Game queue is now 3497
-Checking for games on 2014-01-24
-Game queue is now 3503
-Checking for games on 2014-01-25
-Game queue is now 3643
-Checking for games on 2014-01-26
+Checking for games on 2015-11-08
+Game queue is now 0
+Checking for games on 2015-11-09
+Game queue is now 0
+Checking for games on 2015-11-10
+Game queue is now 0
+Checking for games on 2015-11-11
+Game queue is now 0
+Checking for games on 2015-11-12
+Game queue is now 0
+Checking for games on 2015-11-13
+Game queue is now 155
+Checking for games on 2015-11-14
+Game queue is now 203
+Checking for games on 2015-11-15
+Game queue is now 247
+Checking for games on 2015-11-16
+Game queue is now 328
+Checking for games on 2015-11-17
+Game queue is now 388
+Checking for games on 2015-11-18
+Game queue is now 444
+Checking for games on 2015-11-19
+Game queue is now 500
+Checking for games on 2015-11-20
+Game queue is now 558
+Checking for games on 2015-11-21
+Game queue is now 647
+Checking for games on 2015-11-22
+Game queue is now 703
+Checking for games on 2015-11-23
+Game queue is now 757
+Checking for games on 2015-11-24
+Game queue is now 831
+Checking for games on 2015-11-25
+Game queue is now 904
+Checking for games on 2015-11-26
+Game queue is now 929
+Checking for games on 2015-11-27
+Game queue is now 998
+Checking for games on 2015-11-28
+Game queue is now 1086
+Checking for games on 2015-11-29
+Game queue is now 1131
+Checking for games on 2015-11-30
+Game queue is now 1160
+Checking for games on 2015-12-01
+Game queue is now 1212
+Checking for games on 2015-12-02
+Game queue is now 1298
+Checking for games on 2015-12-03
+Game queue is now 1322
+Checking for games on 2015-12-04
+Game queue is now 1349
+Checking for games on 2015-12-05
+Game queue is now 1453
+Checking for games on 2015-12-06
+Game queue is now 1484
+Checking for games on 2015-12-07
+Game queue is now 1507
+Checking for games on 2015-12-08
+Game queue is now 1551
+Checking for games on 2015-12-09
+Game queue is now 1595
+Checking for games on 2015-12-10
+Game queue is now 1609
+Checking for games on 2015-12-11
+Game queue is now 1615
+Checking for games on 2015-12-12
+Game queue is now 1714
+Checking for games on 2015-12-13
+Game queue is now 1759
+Checking for games on 2015-12-14
+Game queue is now 1777
+Checking for games on 2015-12-15
+Game queue is now 1811
+Checking for games on 2015-12-16
+Game queue is now 1857
+Checking for games on 2015-12-17
+Game queue is now 1877
+Checking for games on 2015-12-18
+Game queue is now 1911
+Checking for games on 2015-12-19
+Game queue is now 2006
+Checking for games on 2015-12-20
+Game queue is now 2032
+Checking for games on 2015-12-21
+Game queue is now 2077
+Checking for games on 2015-12-22
+Game queue is now 2186
+Checking for games on 2015-12-23
+Game queue is now 2224
+Checking for games on 2015-12-24
+Game queue is now 2224
+Checking for games on 2015-12-25
+Game queue is now 2228
+Checking for games on 2015-12-26
+Game queue is now 2229
+Checking for games on 2015-12-27
+Game queue is now 2241
+Checking for games on 2015-12-28
+Game queue is now 2281
+Checking for games on 2015-12-29
+Game queue is now 2341
+Checking for games on 2015-12-30
+Game queue is now 2405
+Checking for games on 2015-12-31
+Game queue is now 2439
+Checking for games on 2016-01-01
+Game queue is now 2448
+Checking for games on 2016-01-02
+Game queue is now 2589
+Checking for games on 2016-01-03
+Game queue is now 2614
+Checking for games on 2016-01-04
+Game queue is now 2644
+Checking for games on 2016-01-05
+Game queue is now 2676
+Checking for games on 2016-01-06
+Game queue is now 2734
+Checking for games on 2016-01-07
+Game queue is now 2788
+Checking for games on 2016-01-08
+Game queue is now 2794
+Checking for games on 2016-01-09
+Game queue is now 2944
+Checking for games on 2016-01-10
+Game queue is now 2959
+Checking for games on 2016-01-11
+Game queue is now 2980
+Checking for games on 2016-01-12
+Game queue is now 3011
+Checking for games on 2016-01-13
+Game queue is now 3052
+Checking for games on 2016-01-14
+Game queue is now 3122
+Checking for games on 2016-01-15
+Game queue is now 3130
+Checking for games on 2016-01-16
+Game queue is now 3274
+Checking for games on 2016-01-17
+Game queue is now 3291
+Checking for games on 2016-01-18
+Game queue is now 3318
+Checking for games on 2016-01-19
+Game queue is now 3352
+Checking for games on 2016-01-20
+Game queue is now 3391
+Checking for games on 2016-01-21
+Game queue is now 3457
+Checking for games on 2016-01-22
+Game queue is now 3467
+Checking for games on 2016-01-23
+Game queue is now 3578
+Checking for games on 2016-01-24
+Game queue is now 3619
+Checking for games on 2016-01-25
+Game queue is now 3642
+Checking for games on 2016-01-26
 Game queue is now 3669
-Checking for games on 2014-01-27
-Game queue is now 3686
-Checking for games on 2014-01-28
-Game queue is now 3699
-Checking for games on 2014-01-29
-Game queue is now 3758
-Checking for games on 2014-01-30
-Game queue is now 3817
-Checking for games on 2014-01-31
-Game queue is now 3830
-Checking for games on 2014-02-01
-Game queue is now 3979
-Checking for games on 2014-02-02
-Game queue is now 3990
-Checking for games on 2014-02-03
-Game queue is now 4011
-Checking for games on 2014-02-04
-Game queue is now 4034
-Checking for games on 2014-02-05
-Game queue is now 4084
-Checking for games on 2014-02-06
-Game queue is now 4148
-Checking for games on 2014-02-07
-Game queue is now 4162
-Checking for games on 2014-02-08
-Game queue is now 4300
-Checking for games on 2014-02-09
+Checking for games on 2016-01-27
+Game queue is now 3718
+Checking for games on 2016-01-28
+Game queue is now 3777
+Checking for games on 2016-01-29
+Game queue is now 3789
+Checking for games on 2016-01-30
+Game queue is now 3932
+Checking for games on 2016-01-31
+Game queue is now 3954
+Checking for games on 2016-02-01
+Game queue is now 3983
+Checking for games on 2016-02-02
+Game queue is now 4017
+Checking for games on 2016-02-03
+Game queue is now 4055
+Checking for games on 2016-02-04
+Game queue is now 4118
+Checking for games on 2016-02-05
+Game queue is now 4127
+Checking for games on 2016-02-06
+Game queue is now 4280
+Checking for games on 2016-02-07
+Game queue is now 4292
+Checking for games on 2016-02-08
 Game queue is now 4322
-Checking for games on 2014-02-10
-Game queue is now 4346
-Checking for games on 2014-02-11
-Game queue is now 4358
-Checking for games on 2014-02-12
-Game queue is now 4405
-Checking for games on 2014-02-13
-Game queue is now 4468
-Checking for games on 2014-02-14
-Game queue is now 4483
-Checking for games on 2014-02-15
-Game queue is now 4624
-Checking for games on 2014-02-16
-Game queue is now 4647
-Checking for games on 2014-02-17
-Game queue is now 4664
-Checking for games on 2014-02-18
-Game queue is now 4687
-Checking for games on 2014-02-19
-Game queue is now 4738
-Checking for games on 2014-02-20
-Game queue is now 4802
-Checking for games on 2014-02-21
-Game queue is now 4814
-Checking for games on 2014-02-22
-Game queue is now 4947
-Checking for games on 2014-02-23
-Game queue is now 4973
-Checking for games on 2014-02-24
-Game queue is now 4989
-Checking for games on 2014-02-25
-Game queue is now 5014
-Checking for games on 2014-02-26
+Checking for games on 2016-02-09
+Game queue is now 4350
+Checking for games on 2016-02-10
+Game queue is now 4384
+Checking for games on 2016-02-11
+Game queue is now 4458
+Checking for games on 2016-02-12
+Game queue is now 4470
+Checking for games on 2016-02-13
+Game queue is now 4613
+Checking for games on 2016-02-14
+Game queue is now 4631
+Checking for games on 2016-02-15
+Game queue is now 4657
+Checking for games on 2016-02-16
+Game queue is now 4686
+Checking for games on 2016-02-17
+Game queue is now 4731
+Checking for games on 2016-02-18
+Game queue is now 4800
+Checking for games on 2016-02-19
+Game queue is now 4812
+Checking for games on 2016-02-20
+Game queue is now 4945
+Checking for games on 2016-02-21
+Game queue is now 4972
+Checking for games on 2016-02-22
+Game queue is now 4992
+Checking for games on 2016-02-23
+Game queue is now 5020
+Checking for games on 2016-02-24
 Game queue is now 5061
-Checking for games on 2014-02-27
-Game queue is now 5134
-Checking for games on 2014-02-28
-Game queue is now 5146
-Checking for games on 2014-03-01
-Game queue is now 5282
-Checking for games on 2014-03-02
-Game queue is now 5310
-Checking for games on 2014-03-03
-Game queue is now 5326
-Checking for games on 2014-03-04
-Game queue is now 5354
-Checking for games on 2014-03-05
-Game queue is now 5392
-Checking for games on 2014-03-06
-Game queue is now 5453
-Checking for games on 2014-03-07
-Game queue is now 5477
-Checking for games on 2014-03-08
-Game queue is now 5587
-Checking for games on 2014-03-09
-Game queue is now 5609
-Checking for games on 2014-03-10
-Game queue is now 5622
-Checking for games on 2014-03-11
-Game queue is now 5635
-Checking for games on 2014-03-12
-Game queue is now 5667
-Checking for games on 2014-03-13
-Game queue is now 5728
-Checking for games on 2014-03-14
-Game queue is now 5772
-Checking for games on 2014-03-15
-Game queue is now 5796
-Checking for games on 2014-03-16
-Game queue is now 5801
-5802 games processed
-5803 games processed
-5804 games processed
-5805 games processed
-5806 games processed
-5807 games processed
+Checking for games on 2016-02-25
+Game queue is now 5128
+Checking for games on 2016-02-26
+Game queue is now 5139
+Checking for games on 2016-02-27
+Game queue is now 5275
+Checking for games on 2016-02-28
+Game queue is now 5301
+Checking for games on 2016-02-29
+Game queue is now 5318
+Checking for games on 2016-03-01
+Game queue is now 5349
+Checking for games on 2016-03-02
+Game queue is now 5383
+Checking for games on 2016-03-03
+Game queue is now 5444
+Checking for games on 2016-03-04
+Game queue is now 5472
+Checking for games on 2016-03-05
+Game queue is now 5584
+Checking for games on 2016-03-06
+Game queue is now 5607
+Checking for games on 2016-03-07
+Game queue is now 5624
+Checking for games on 2016-03-08
+Game queue is now 5640
+Checking for games on 2016-03-09
+Game queue is now 5671
+Checking for games on 2016-03-10
+Game queue is now 5732
+Checking for games on 2016-03-11
+Game queue is now 5776
+Checking for games on 2016-03-12
+Game queue is now 5800
+Checking for games on 2016-03-13
+Game queue is now 5805
+Checking for games on 2016-03-14
+Game queue is now 5807
+Sanity check; first 10 scores: [{'Northern Colo.': 72, 'Kansas': 109}, {'Fla. Atlantic': 55, 'Michigan St.': 82}, {'Temple': 67, 'North Carolina': 91}, {'Morgan St.': 48, 'Virginia': 86}, {'Jackson St.': 52, 'Oregon': 80}, {'Fairleigh Dickinson': 54, 'Villanova': 91}, {'Northern Ky.': 61, 'West Virginia': 107}, {'Xavier': 81, 'Miami (OH)': 72}, {'Albany (NY)': 65, 'Kentucky': 78}, {'Texas-Rio Grande Valley': 59, 'Miami (FL)': 86}]
 5808 games processed
 5809 games processed
 5810 games processed
@@ -6071,632 +6064,661 @@ Game queue is now 5801
 11600 games processed
 11601 games processed
 11602 games processed
-Florida 1912
-Wichita State 1902
-Stephen F. Austin 1857
-Louisville 1846
-Virginia 1845
-Arizona 1841
-San Diego State 1834
-Villanova 1829
-New Mexico 1826
-Iowa State 1808
-Michigan 1805
-Gonzaga 1802
-North Dakota State 1801
-Duke 1796
-UCLA 1792
-Harvard 1791
-Cincinnati 1790
-Syracuse 1786
-Virginia Commonwealth 1785
-Connecticut 1785
-Wisconsin 1782
-Southern Mississippi 1780
-Louisiana Tech 1779
-Creighton 1778
-North Carolina Central 1776
-Saint Joseph's 1776
-Michigan State 1773
-Saint Louis 1771
-Georgia State 1770
-Kansas 1768
-Toledo 1764
-North Carolina 1762
-Baylor 1756
-Western Michigan 1756
-Green Bay 1754
-Manhattan 1754
-Kentucky 1753
-Tulsa 1753
-Oregon 1752
-George Washington 1751
-Brigham Young 1751
-Oklahoma 1745
-Pittsburgh 1745
-Ohio State 1744
-Delaware 1742
-Mercer 1741
-Memphis 1737
-Providence 1737
-Dayton 1736
-Middle Tennessee 1735
-New Mexico State 1734
-Eastern Kentucky 1732
-Massachusetts 1729
-Texas 1721
-Colorado 1721
-Louisiana-Lafayette 1720
-Texas-El Paso 1719
-Belmont 1719
-Tennessee 1718
-Southern Methodist 1718
-San Francisco 1717
-Iona 1715
-Nebraska 1714
-Boston University 1714
-Stanford 1711
-Utah 1710
-IPFW 1709
-St. John's (NY) 1707
-Towson 1705
-Cleveland State 1705
-Vermont 1704
-North Carolina State 1704
-Princeton 1703
-California-Irvine 1701
-Incarnate Word 1699
-Georgia 1696
-Indiana State 1695
-Arizona State 1695
-Arkansas 1694
-Sam Houston State 1693
-Xavier 1693
-Davidson 1692
-Kansas State 1691
-California-Santa Barbara 1690
-Ohio 1690
-South Dakota State 1690
-Missouri 1690
-Buffalo 1688
-Oklahoma State 1687
-Saint Mary's (CA) 1686
-Coastal Carolina 1685
-Akron 1679
-Florida Gulf Coast 1679
-Clemson 1678
-Wofford 1676
-American 1675
-Nevada-Las Vegas 1673
-Illinois 1672
-Stony Brook 1670
-Utah Valley 1670
-Minnesota 1669
-Eastern Michigan 1669
-California 1668
-Wright State 1668
-Milwaukee 1668
-Florida State 1667
-Weber State 1665
-Louisiana State 1663
-Boise State 1662
-Robert Morris 1661
-West Virginia 1660
-Murray State 1658
-Missouri State 1657
-William &amp; Mary 1654
-Northwestern State 1654
-Winthrop 1653
-Canisius 1652
-Iowa 1652
-Quinnipiac 1652
-Columbia 1651
-Virginia Military Institute 1650
-Western Kentucky 1650
-Wagner 1647
-Fresno State 1646
-Maryland 1644
-Georgetown 1643
-Utah State 1641
-Hawaii 1641
-Texas Southern 1641
-Marquette 1640
-Mississippi 1639
-Holy Cross 1638
-Richmond 1637
-South Carolina Upstate 1636
-High Point 1636
-Arkansas State 1635
-Southern 1634
-Washington 1633
-Miami (FL) 1631
-Metropolitan State 1630
-Oregon State 1629
-Indiana 1627
-Morehead State 1627
-St. Bonaventure 1627
-Texas A&amp;M-Corpus Christi 1627
-Radford 1627
-Denver 1626
-Northern Iowa 1626
-Houston 1626
-Hampton 1623
-Albany (NY) 1622
-North Carolina-Asheville 1619
-Elon 1619
-Nova Southeastern 1618
-Montana 1617
-Mount St. Mary's 1617
-Valparaiso 1616
-East Tennessee State 1616
-North Dakota 1616
-Wyoming 1615
-Alabama State 1615
-Portland State 1614
-Gardner-Webb 1614
-Wilmington (OH) 1613
-Texas-Permian Basin 1613
-Wilmington (DE) 1613
-Seton Hall 1613
-Yale 1611
-Bucknell 1611
-Southeast Missouri State 1609
-Alabama-Birmingham 1608
-Tulane 1606
-Western Carolina 1606
-Texas A&amp;M 1603
-Nevada 1603
-Wake Forest 1603
-San Diego 1602
-Chattanooga 1602
-Charlotte 1601
-Penn State 1601
-Illinois State 1600
-West Alabama 1600
-McMurry 1600
-Norfolk State 1600
-Mars Hill 1600
-Emporia State 1599
-South Carolina 1599
-Lipscomb 1599
-Old Dominion 1599
-Long Beach State 1598
-Lyon 1598
-Southern Illinois 1598
-La Salle 1597
-Oral Roberts 1596
-Georgia Tech 1594
-Hartford 1594
-Tennessee Tech 1593
-Northern Illinois 1592
-Grand Canyon 1592
-Northern Arizona 1590
-Texas-Arlington 1590
-Idaho 1589
-Siena 1589
-Our Lady of the Lake 1589
-St. Catharine 1588
-Northern Colorado 1588
-Mayville State 1588
-Nebraska-Omaha 1588
-LeMoyne-Owen 1588
-Texas Tech 1588
-Northwestern 1587
+11603 games processed
+11604 games processed
+11605 games processed
+11606 games processed
+11607 games processed
+11608 games processed
+11609 games processed
+11610 games processed
+11611 games processed
+11612 games processed
+11613 games processed
+11614 games processed
+Kansas 1890
+Michigan St. 1851
+Oregon 1846
+Villanova 1836
+North Carolina 1835
+Stephen F. Austin 1820
+Virginia 1816
+Xavier 1813
+Utah 1809
+Seton Hall 1802
+UALR 1796
+Chattanooga 1794
+UNC Wilmington 1793
+Kentucky 1791
+St. Mary's (CA) 1790
+Gonzaga 1790
+West Virginia 1789
+Miami (FL) 1787
+St. Joseph's 1787
+Indiana 1783
+Hawaii 1780
+Purdue 1780
+Oklahoma 1778
+South Dakota St. 1773
+Arizona 1771
+Fresno St. 1771
+Texas A&M 1769
+SMU 1767
+Valparaiso 1766
+San Diego St. 1765
+Wichita St. 1765
+Louisville 1764
+Stony Brook 1761
+UAB 1760
+Yale 1760
+Monmouth 1760
+Dayton 1760
+Cal 1758
+Hofstra 1754
+Weber St. 1752
+St. Bonaventure 1750
+Connecticut 1750
+Cal St. Bakersfield 1749
+A&M-Corpus Christi 1748
+Princeton 1747
+Akron 1746
+Maryland 1745
+Grand Canyon 1744
+VCU 1737
+UNI 1735
+Iona 1734
+Middle Tenn. 1732
+Duke 1729
+New Mexico St. 1728
+UC-Irvine 1724
+East Tenn. St. 1723
+Butler 1723
+Providence 1720
+Wisconsin 1719
+IPFW 1719
+Temple 1718
+Baylor 1717
+Texas 1715
+BYU 1714
+Houston 1714
+Winthrop 1713
+Notre Dame 1713
+Green Bay 1712
+Cincinnati 1710
+Albany (NY) 1708
+South Carolina 1706
+Ohio St. 1706
+Evansville 1705
+La.-Monroe 1705
+Colorado 1704
+Michigan 1701
+Virginia Tech 1700
+UNC Asheville 1699
+Ohio 1698
+Iowa St. 1697
+Iowa 1696
+George Washington 1696
+Oakland 1695
+Wright St. 1694
+Tulsa 1693
+Columbia 1691
+Long Beach St. 1691
+Buffalo 1690
+Georgia 1690
+Pittsburgh 1689
+Texas-Arlington 1688
+Davidson 1686
+Old Dominion 1685
+Hampton 1684
+Oregon St. 1683
+High Point 1683
+Southern California 1681
+Texas Tech 1681
+Georgia Tech 1680
+Montana 1680
+Louisiana Tech 1680
+James Madison 1676
+Vermont 1675
+William & Mary 1674
+Morehead St. 1673
+UC-Santa Barbara 1672
+Marquette 1671
+Vanderbilt 1670
+Idaho 1666
+Coastal Caro. 1664
+Mississippi 1662
+Belmont 1661
+LSU 1659
+Wagner 1659
+North Florida 1657
+Fla. Gulf Coast 1657
+Florida St. 1657
+Southern Ill. 1656
+Towson 1656
+Boise St. 1656
+Syracuse 1656
+Tennessee St. 1653
+Siena 1652
+Nevada 1651
+Florida 1651
+North Dakota St. 1651
+Eastern Mich. 1649
+Incarnate Word 1648
+Washington 1647
+Lehigh 1647
+Alabama 1645
+Northern Ill. 1645
+Illinois St. 1645
+UT Martin 1642
+Northwestern 1642
+Fairfield 1642
+Tennessee Tech 1641
+Creighton 1640
+Neb.-Omaha 1640
+Pepperdine 1640
+Northeastern 1638
+New Hampshire 1638
+Southern U. 1637
+Austin Peay 1637
+Memphis 1633
+Marshall 1631
+Ball St. 1631
+Western Caro. 1630
+Texas Southern 1629
+Western Ky. 1629
+Clemson 1627
+Milwaukee 1627
+Kent St. 1625
+Central Mich. 1625
+La.-Lafayette 1625
+Furman 1624
+UNLV 1624
+Fordham 1624
+Arkansas 1622
+Stanford 1620
+Penn St. 1618
+Kansas St. 1618
+South Carolina St. 1617
+Colorado St. 1616
+Warner Southern 1615
+Fairleigh Dickinson 1615
+Wiley 1615
+William Carey 1614
+Roanoke 1614
+Denver 1613
+UTEP 1613
+Tex. Permian Basin 1613
+Bucknell 1613
+Murray St. 1612
+Rhode Island 1612
+Sam Houston St. 1610
+Boston U. 1609
+Col. of Charleston 1607
+New Mexico 1607
+North Dakota 1606
+Gardner-Webb 1605
+Army 1604
+Detroit 1603
+Utah St. 1602
+North Carolina St. 1601
+Jackson St. 1601
+Harvard 1601
+Mississippi St. 1599
+Richmond 1598
+Norfolk St. 1596
+Arizona St. 1595
+Louisiana State-Alexandria 1594
+NJIT 1593
+Toledo 1592
+Bowie St. 1592
+Houston Baptist 1591
+Nebraska 1591
+UCLA 1590
+Francis Marion 1590
+Wofford 1589
+Idaho St. 1589
+Benedictine 1589
+College of Idaho 1588
+Northern New Mexico 1588
+Western Ore. 1588
 Hardin-Simmons 1587
-Elmhurst 1587
-Kean 1587
-Menlo 1587
-Texas A&amp;M-International 1586
-Anderson (SC) 1586
-Fayetteville State 1586
+John Brown 1587
+Purdue North Central 1587
+Bryn Athyn 1586
+Silver Lake 1586
+Virginia Wise 1586
 Master's 1586
-St. Edward's 1586
-Westminster (PA) 1586
-Chowan 1586
-Kalamazoo 1586
-Jarvis Christian 1586
-Southwestern (TX) 1586
-Morgan State 1586
-Mount Olive 1586
-Central Methodist 1586
-St. Francis (IL) 1586
-Mesa State 1586
-Houghton 1585
-Catholic 1585
-Colorado College 1585
-Thiel 1585
-Black Hills State 1585
-Southwestern Oklahoma State 1585
-Heidelberg 1585
-Salve Regina 1585
-Hendrix 1584
+Wayne St. (NE) 1586
+Oberlin 1586
+Tabor College 1586
+Denison 1586
+Western St. 1586
+Coker 1586
+Northland 1586
+Fort Lewis 1586
+Hawaii Pacific 1586
+Thomas More 1586
+UNC Greensboro 1586
+Johnson & Wales 1585
+Trevecca Nazarene 1585
+St. Catharine 1585
+Cal St. L.A. 1585
+St. Martin's 1585
+Rowan 1585
+Chapman 1585
+Union (TN) 1585
+Miles 1585
+Mary Washington 1585
+Ark.-Fort Smith 1585
+Rockhurst 1585
+Ohio Dominican 1585
+Arkansas Tech 1585
+Methodist 1585
+Edward Waters 1585
+Cal St. Dom. Hills 1585
+Paul Quinn 1585
+Wesley 1585
+Ouachita 1585
 Arizona Christian 1584
-Truman State 1584
-Minnesota-Morris 1584
+Oregon Tech 1584
+Averett 1584
+Trinity (FL) 1584
+Biola 1584
+Wis.-Superior 1584
+Linfield 1584
 Eckerd 1584
-Bob Jones University 1584
-Ohio Northern 1584
-Clearwater Christian 1584
-Howard Payne 1584
-Haverford 1584
-Albion 1584
-North Texas 1584
-North Park 1584
-Wittenberg 1584
-California-Santa Cruz 1584
-Viterbo University 1584
-Notre Dame de Namur 1584
-Morehouse 1584
-Marygrove 1584
-Johnson University 1584
-Valley City State 1584
-Northwestern Ohio 1584
-Covenant 1584
+Texas-Tyler 1584
+Bluefield College (VA) 1584
+St. Joseph's (IN) 1584
+New Hope Christian 1584
+Cincinnati Christian 1584
+Emmanuel 1584
+Henderson St. 1584
+Marian 1584
+Minn.-Morris 1584
+Michigan-Dearborn 1584
+MIT 1584
+Ryerson 1584
+West Va. Tech 1584
+Dickinson State (ND) 1584
+Molloy 1584
+Coastal Georgia 1584
+Dubuque 1584
+Campbellsville 1584
+Chowan 1584
 Shenandoah 1584
-Earlham (IN) 1584
-Virginia Union 1584
-Washington &amp; Lee 1584
-Vanguard 1584
-Suffolk 1584
-Columbus State 1584
-Mount St. Joseph 1584
-Mississippi College 1584
-Virginia-Lynchburg 1584
-Hope International 1584
-Asbury 1584
+Lincoln 1584
+UC-San Diego 1584
+Madonna 1584
+Merchant Marine Academy 1584
+Chadron St. 1584
+BYU-Hawaii 1584
+Worcester St. 1584
+University of the Southwest 1584
+Emporia St. 1584
+William Jessup 1584
 La Roche 1584
-Bridgewater (VA) 1584
-LeTourneau 1584
-Tuskegee 1584
-Pacific (OR) 1584
-Ursinus 1584
-Southern Poly 1584
-Northern Michigan 1584
-Gwynedd-Mercy 1584
-Concordia (MI) 1584
-San Francisco State 1584
+Truett-McConnell 1584
+Johnson 1584
+Black Hills State 1584
+Regis 1584
+Wentworth 1584
+Boyce 1584
+Seton Hill 1584
 Millsaps 1584
-Massachusetts Institute of Technology 1584
+McMurry 1584
+Alma 1584
+Rutgers-Newark 1584
 Randolph 1584
-Roanoke 1584
-Lesley 1584
-Tampa 1584
-St. Thomas (TX) 1584
-Caldwell 1584
-Wiley 1584
-Sewanee 1584
-Minnesota-Duluth 1584
-Colorado-Colorado Springs 1584
-Wayland Baptist 1584
-Northwest Nazarene 1584
-Philadelphia Biblical 1584
-Daniel Webster 1583
-Cal State Dominguez Hills 1583
-Schreiner 1583
-Wingate 1583
-Notre Dame (OH) 1583
-Alabama-Huntsville 1583
-LaGrange 1583
-Limestone 1583
-Ferrum 1583
-Southwestern Christian 1583
-Holy Names 1583
-Michigan-Dearborn 1583
-Salisbury 1583
-Hawaii-Hilo 1583
-Colorado State 1583
-Eastern 1583
+Central St. (OH) 1584
+San Fran. St. 1584
+Catawba 1584
+Northwest Christian 1584
+Lyndon St. 1584
+Hiram 1584
+Urbana 1584
+Cincinnati-Clermont 1584
+Covenant 1584
+Illinois Tech 1584
+Pitt.-Bradford 1584
+Northern Mich. 1584
+Austin 1584
+Greensboro 1584
+Florida National 1584
+Texas College 1584
+Willamette 1583
+Colo. Christian 1583
+Penn St.-Harrisburg 1583
+Lyon 1583
+Savannah St. 1583
+Cal St. East Bay 1583
+Texas Wesleyan 1583
+Kentucky St. 1583
+Concordia (OR) 1583
+Illinois 1583
+Mt. St. Vincent 1583
+Mobile 1583
+Goucher 1583
+Queens (NY) 1583
 Chestnut Hill 1583
-Mount Saint Vincent 1583
-Florida National University 1583
-Allen 1583
-Auburn Montgomery 1583
+Maine-Fort Kent 1583
+George Fox 1583
+Westminster 1583
+SUNY-Oneonta 1583
+Tusculum 1583
+Vanguard 1583
+Aquinas 1583
+East Mennonite 1583
 Siena Heights 1583
-Grace Bible 1583
-Coe 1583
-Olivet Nazarene 1583
-Montana Western 1583
-Guilford 1583
-Taylor (IN) 1583
-Emory &amp; Henry 1583
-Urbana 1583
-Webber 1583
-Wayne State (NE) 1583
-Ohio Valley 1583
-Brown 1582
-Haskell Indian Nations Institute 1582
-Saint Martin's 1582
-Notre Dame 1582
-Fort Valley State 1582
-Alice Lloyd 1582
-Wisconsin-Parkside 1582
-Mobile 1582
-Westminster (UT) 1582
-Claflin 1582
-West Virginia Wesleyan 1582
-Immaculata 1582
-La Verne 1582
-Truett-McConnell 1582
-Arkansas-Fort Smith 1582
-Brewton-Parker 1582
-Saint Joseph's (IN) 1582
-Greenville 1582
-Graceland (IA) 1582
-Indiana Tech 1582
-Coker 1582
-Dakota State 1582
-Oakwood 1582
-Vanderbilt 1581
-Florida Memorial 1581
-Coast Guard 1581
-City College of New York 1581
-Eureka 1581
-Baptist Bible (PA) 1581
-West Virginia Tech 1581
-Missouri S&amp;T 1581
-Philadelphia 1581
-Alabama 1581
-Southwest State (MN) 1581
-Bacone 1581
-Baruch College 1581
-Defiance 1581
-Voorhees 1581
-St. Francis (NY) 1581
-Kentucky State 1581
-Blue Mountain College 1581
-Belhaven (MS) 1581
-Presentation College 1581
-Indiana-Northwest 1581
-Young Harris 1581
-Southwestern Adventist 1580
-Mount Ida 1580
-Maine-Fort Kent 1580
-Florida International 1580
-Selma University 1580
-Army 1580
-Ecclesia 1580
-Albertus Magnus 1580
-Montana State-Billings 1580
-Wheelock 1579
-Robert Morris (IL) 1579
-Warner Southern 1579
-Auburn 1579
-Dallas Christian 1579
-North Florida 1577
-Pacific 1576
-Oberlin 1576
-Miami (OH) 1575
-Eastern Washington 1574
-Bryant 1574
-Rhode Island 1573
-Carroll (MT) 1572
-East Carolina 1571
-Newberry 1571
-Drexel 1571
-William Carey 1571
-Barber-Scotia 1570
-Centenary (LA) 1570
-Rockhurst 1570
-William Jessup 1570
-Western State 1570
-Ave Maria 1570
-Tusculum 1570
-Rio Grande 1570
-Saint Peter's 1569
-Cal State Northridge 1569
-Nicholls State 1569
-Pacific Lutheran 1569
-Tennessee Temple 1568
-Pepperdine 1568
-Colorado Christian 1568
-Martin Methodist 1568
-Southeastern 1568
-Washington College 1568
-Mid-Continent 1568
-Portland 1568
-Hawaii Pacific 1568
-Thomas University 1568
-Trinity (TX) 1568
-Oakland 1568
-Reinhardt 1567
-Cedarville 1567
-North Carolina Wesleyan 1567
-California-Merced 1567
-Goucher 1567
-Spring Hill 1567
-Roosevelt 1567
-Indiana-Kokomo 1567
-Purdue Calumet 1567
-Waldorf 1567
-Southern Arkansas 1567
-Peru State 1567
-Purdue 1567
-Florida College 1567
-Columbia International 1567
-Loyola (LA) 1566
-Lyndon State 1566
-Texas-Tyler 1566
-Bluefield State 1566
-Bethesda University (CA) 1566
-Duquesne 1566
-Walla Walla 1565
-Cincinnati Christian 1565
-Toccoa Falls 1565
-Central Baptist 1565
-Santa Clara 1565
-Judson 1565
-Edward Waters 1565
-Tougaloo 1565
-Fisher College 1565
-Sacramento State 1565
-Dallas Baptist 1565
-Campbellsville 1564
-Arkansas-Little Rock 1564
-Crowley's Ridge 1564
-Butler 1564
-Fisk 1564
-Simpson 1564
-Bethel (TN) 1563
-Milligan 1563
-Western New Mexico 1563
-Evansville 1562
-Bluefield (WV) 1562
-Dalton State 1562
-Lees-McRae 1561
-Cal Poly 1561
-Drake 1561
-Central Florida 1558
-Kent State 1556
-Arlington Baptist 1555
-Pacifica 1554
-Manchester 1554
-Cameron 1553
-Greensboro 1553
-Hiwassee 1552
-Alabama A&amp;M 1552
-South Dakota 1551
-Louisiana College 1551
-Iowa Wesleyan 1551
-Trinity Baptist 1551
-Northern New Mexico 1551
-La Sierra 1551
-North Greenville 1550
-Dillard 1550
-Alaska-Anchorage 1550
-NJIT 1550
-Virginia Intermont 1550
-Arkansas-Pine Bluff 1549
-Oakland City 1549
-Brevard 1549
-Hillsdale 1549
-Sonoma State 1548
-Rochester (MI) 1547
-Florida A&amp;M 1547
-Air Force 1547
-Chaminade 1546
-Brescia 1545
-St. Katherine 1543
-Open Bible College 1542
-Central Pennsylvania College 1541
-Dartmouth 1540
-Northwood (TX) 1540
-New Orleans 1539
-Warren Wilson 1539
-Stillman 1539
-Rutgers 1539
-St. Andrews 1538
-Rider 1538
-Evergreen State 1538
-Youngstown State 1537
-Colgate 1537
-Montreat 1533
-DePaul 1533
-Champion Baptist 1533
-Montana State 1531
-Marist 1531
-North Carolina-Greensboro 1531
-Northeastern 1530
-Loyola Marymount 1530
-Jacksonville 1529
-Georgia Southern 1528
-Detroit Mercy 1528
-George Mason 1528
-Savannah State 1527
-Huston-Tillotson 1526
-Lafayette 1526
-Lehigh 1523
-College of Charleston 1521
-Charleston Southern 1520
-McNeese State 1519
-Louisiana-Monroe 1519
-Eastern Illinois 1519
-Mississippi State 1519
-Johnson &amp; Wales (NC) 1519
-Chicago State 1517
-Massachusetts-Lowell 1517
-Bradley 1516
-Samford 1515
-South Alabama 1515
-Bowling Green State 1515
-Cal State Bakersfield 1514
-Seattle 1513
-Cal State Fullerton 1512
-Central Connecticut State 1512
-Southeastern Louisiana 1511
-Temple 1511
-James Madison 1511
-Austin Peay 1509
-Abilene Christian 1507
-Washington State 1506
-Alcorn State 1505
-Southern Illinois-Edwardsville 1505
-Idaho State 1505
-Southern California 1502
-Missouri-Kansas City 1501
-Western Illinois 1500
-Troy 1500
-Marshall 1496
-Coppin State 1496
-Fordham 1496
-Saint Francis (PA) 1495
-San Diego Christian 1493
-South Florida 1491
-California-Riverside 1490
-Pennsylvania 1486
-Florida Atlantic 1483
-Boston College 1481
-Loyola (MD) 1479
-Texas Christian 1476
-Loyola (IL) 1476
-Prairie View 1474
-Liberty 1474
-Hofstra 1472
-Central Michigan 1471
-Virginia Tech 1468
-Jackson State 1467
-Campbell 1467
-Fairleigh Dickinson 1466
-Central Arkansas 1465
-California-Davis 1464
-Texas-Pan American 1463
-Texas-San Antonio 1462
-Appalachian State 1460
-Jacksonville State 1459
-Northern Kentucky 1457
-Long Island University 1457
-Monmouth 1455
-Delaware State 1450
-Texas State 1449
-Maryland-Baltimore County 1448
-North Carolina-Wilmington 1447
-Rice 1438
-Navy 1438
-Furman 1438
-San Jose State 1436
-Fairfield 1435
-Tennessee State 1434
-Tennessee-Martin 1429
-South Carolina State 1429
-Binghamton 1429
-Stetson 1424
-Longwood 1423
-North Carolina A&amp;T 1419
-Howard 1417
-Bethune-Cookman 1416
-Citadel 1416
-Illinois-Chicago 1415
-Mississippi Valley State 1415
-Maine 1413
-Kennesaw State 1413
-IUPUI 1410
-Ball State 1410
-Niagara 1410
-Grambling 1405
-Maryland-Eastern Shore 1403
-Houston Baptist 1399
-Lamar 1394
-Presbyterian 1392
-New Hampshire 1388
-Cornell 1369
-Sacred Heart 1367
-Southern Utah 1353
+Manchester 1583
+Dallas Christian 1583
+Wheelock 1583
+St. Mary's (MN) 1583
+Tiffin 1583
+FDU-Florham 1583
+Point Loma Nazarene 1583
+Westminster (MO) 1583
+Malone 1583
+Lourdes 1583
+Farmingdale St. 1583
+Gallaudet 1583
+William Jewell 1583
+Tampa 1583
+Kenyon 1583
+Fisher College 1583
+Staten Island 1583
+Paine 1583
+Crowley's Ridge 1583
+Pacific Lutheran 1583
+Emerson 1583
+Medgar Evers 1582
+Radford 1582
+Spring Hill 1582
+Kentucky Christian 1582
+Albion 1582
+Mercy 1582
+Tex. A&M-Kingsville 1582
+Quincy 1582
+Mississippi Col. 1582
+Florida College 1582
+Grace Bible 1582
+St. Ambrose 1582
+Waldorf 1582
+Pensacola Christian 1582
+Williams Baptist 1582
+Thiel 1582
+Bridgewater (VA) 1582
+Ursinus 1582
+Northwest Indian College 1582
+Georgetown 1582
+Montana Western 1582
+Le Tourneau 1582
+Mt. St. Joseph 1582
+Geneva 1582
+Cal St. Monterey Bay 1582
+South Dakota School of Mines 1582
+Arlington Baptist 1581
+St. Andrews 1581
+Cedarville 1581
+Embry-Riddle 1581
+Widener 1581
+Angelo St. 1581
+Minn. Duluth 1581
+Albany St. (GA) 1581
+William Woods 1581
+Selma University 1581
+Pine Manor 1581
+Ark.-Monticello 1581
+Notre Dame (CA) 1581
+Columbia International 1581
+Ill.-Springfield 1581
+Bob Jones 1580
+Cumberland 1580
+Missouri Valley 1580
+Utica 1580
+SE Okla. St. 1580
+Lees-McRae 1580
+Florida Tech 1580
+La Verne 1580
+Eastern Wash. 1580
+Alas. Anchorage 1580
+Seattle 1579
+Cairn 1579
+Alcorn St. 1579
+Maryville (MO) 1579
+Purdue Calumet 1579
+East Central 1579
+Texas St. 1578
+St. Peter's 1577
+Cheyney 1577
+Massachusetts 1575
+Judson 1574
+Tennessee 1573
+Miami (OH) 1573
+Trinity Christian 1573
+Indiana St. 1573
+Loyola (IL) 1573
+Mercer 1573
+Georgia St. 1572
+San Francisco 1572
+Rio Grande 1572
+IUPUI 1571
+Loyola Marymount 1571
+Indiana-Northwest 1571
+Eureka 1570
+Hawaii Hilo 1570
+Trinity International (IL) 1570
+Sul Ross St. 1570
+Oakwood 1570
+Charlotte 1569
+Texas Lutheran 1569
+Menlo 1569
+Ecclesia 1569
+Roosevelt 1569
+Ferrum 1569
+Carroll 1569
+Ga. Southern 1569
+Louisiana State-Shreveport 1569
+Multnomah 1569
+Tennessee Wesleyan 1568
+Central Baptist 1568
+Voorhees 1568
+Hillsdale 1568
+Marygrove 1568
+Western Mich. 1568
+Adams St. 1568
+Kean 1568
+N.M. Highlands 1568
+Simpson 1568
+Brescia 1567
+Mid-Atlantic Christian 1567
+Schreiner 1567
+N.C. Wesleyan 1567
+Milligan 1567
+Middle Georgia State 1567
+Belmont Abbey 1567
+Bristol 1567
+North Greenville 1566
+Dillard 1566
+Valley City State 1566
+Daniel Webster 1566
+Fisk 1566
+Florida Memorial 1566
+St. Thomas (TX) 1566
+Jacksonville 1566
+Goldey-Beacom 1565
+Bowling Green 1565
+Life Pacific 1565
+St. Edward's 1565
+Centenary (LA) 1565
+Warren Wilson 1565
+Navy 1565
+Ave Maria 1565
+Mars Hill 1564
+Our Lady of the Lake 1564
+Elon 1563
+York (NE) 1563
+Summit 1561
+St. Francis (NY) 1561
+Oral Roberts 1560
+South Dakota 1560
+Liberty 1560
+Long Island 1559
+Eastern Ill. 1559
+Duquesne 1559
+American 1557
+Fresno Pacific 1556
+Washington Adventist 1556
+Howard Payne 1555
+Wyoming 1555
+Indiana-Kokomo 1554
+Chaminade 1554
+Alabama St. 1553
+Portland St. 1552
+South Ala. 1552
+Oakland City 1552
+Auburn Montgomery 1552
+Holy Names 1552
+Webber 1552
+Missouri St. 1551
+Montana St. 1551
+Jarvis Christian 1550
+Thomas University 1550
+Eastern Ky. 1550
+Reinhardt 1549
+Montreat 1549
+Rochester (MI) 1549
+Fort Valley St. 1548
+Toccoa Falls 1547
+Harris-Stowe 1546
+Blue Mountain College 1545
+Louisiana Col. 1545
+Hiwassee 1544
+Bethesda University (CA) 1544
+Holy Cross 1542
+Sacramento St. 1542
+Hannibal-LaGrange 1542
+Santa Clara 1541
+Kennesaw St. 1540
+Pacific Union 1540
+Air Force 1539
+Trinity Baptist 1537
+Piedmont 1537
+Loyola (LA) 1535
+Abilene Christian 1535
+Johnson & Wales (NC) 1535
+Rider 1534
+Sacred Heart 1534
+TCU 1533
+Bethune-Cookman 1533
+Lipscomb 1533
+Manhattan 1533
+Colgate 1525
+Oklahoma St. 1524
+Utah Valley 1524
+Canisius 1523
+Great Falls 1523
+Penn 1523
+Antelope Valley 1522
+Portland 1522
+Rice 1521
+UC-Riverside 1521
+Southeastern La. 1521
+San Diego Christian 1521
+St. Louis 1520
+UCF 1520
+Allen 1518
+North Texas 1517
+Mt. St. Mary's 1517
+Western Ill. 1517
+Dartmouth 1516
+George Mason 1516
+UC-Davis 1515
+Tulane 1514
+UMKC 1514
+Mass.-Lowell 1513
+Samford 1513
+Central Penn 1511
+Campbell 1509
+Auburn 1508
+Stetson 1506
+La Salle 1505
+Presbyterian 1504
+Wake Forest 1503
+FIU 1503
+East Carolina 1503
+Cornell 1501
+N.C. Central 1500
+Pacific 1499
+St. Francis (PA) 1499
+Cal St. Northridge 1498
+Missouri 1496
+DePaul 1495
+Youngstown St. 1495
+Appalachian St. 1494
+Northern Colo. 1490
+South Fla. 1489
+S.C. Upstate 1489
+Robert Morris 1488
+San Diego 1487
+Cal Poly 1486
+Nicholls St. 1485
+San Jose St. 1482
+Arkansas St. 1479
+Longwood 1479
+Cal St. Fullerton 1476
+Alabama A&M 1474
+Washington St. 1471
+Hartford 1471
+VMI 1470
+Md.-East. Shore 1470
+Loyola Maryland 1467
+McNeese St. 1464
+Cleveland St. 1463
+Morgan St. 1463
+Brown 1462
+Binghamton 1462
+Northern Ky. 1461
+Coppin St. 1461
+Lamar 1460
+Texas-Rio Grande Valley 1460
+Drexel 1459
+Troy 1459
+New Orleans 1458
+Southern Miss. 1457
+Northwestern St. 1457
+Minnesota 1455
+Charleston So. 1455
+Howard 1454
+St. John's (NY) 1454
+Jacksonville St. 1452
+N.C. A&T 1451
+Quinnipiac 1447
+Prairie View 1446
+Central Ark. 1444
+Fla. Atlantic 1442
+Citadel 1442
+SIU Edwardsville 1438
+Maine 1434
+Boston College 1433
+Delaware 1433
+Marist 1429
+Delaware St. 1429
+Rutgers 1426
+Mississippi Val. 1426
+Ill.-Chicago 1422
+UMBC 1421
+Drake 1421
+Ark.-Pine Bluff 1419
+Bryant 1413
+Southern Utah 1407
+Florida A&M 1406
+Southeast Mo. St. 1404
+Niagara 1403
+Bradley 1403
+Lafayette 1398
+Northern Ariz. 1396
+Central Conn. St. 1380
+UTSA 1376
+Grambling 1374
+Chicago St. 1355
