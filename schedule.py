@@ -14,12 +14,12 @@ class Schedule:
 
     baseURL = 'http://www.sports-reference.com/cbb/boxscores/index.cgi?'
 
-    def __init__(self, startDate=date(2015,11,1), endDate=date(2016,3,15)):
+    def __init__(self, startDate=date(2016,11,1), endDate=date(2017,3,12)):
         self.teamDict = {}
         self.scores = []
         period = endDate.toordinal() - startDate.toordinal()
         dateList = [startDate + timedelta(days=x) for x in range(period)]
-        m = re.compile("no_highlight stats_table.*?<td>.*?<tr>.*?<td.*?>[\(0-9\)]*(.*?)</td>.*?<td.*?>(.*?)</td>.*?<tr>.*?<td.*?>[\(0-9\)]*(.*?)</td>.*?<td.*?>(.*?)</td>", re.DOTALL)
+        m = re.compile("game_summary.*?<td><a.*?>(.*?)</a>.*?<td.*?>(.*?)</td>.*?<td.*?<td><a.*?>(.*?)</a>.*?<td.*?>(.*?)</td>", re.DOTALL)
         for d in dateList:
             print "Checking for games on " + str(d)
             args = urllib.urlencode({'month':d.month, 'day':d.day, 'year':d.year})

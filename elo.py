@@ -31,3 +31,11 @@ def elo_calc(rating1, rating2, result):
     newrating1 = int(rating1 + ka * (Sa - Ea))
     newrating2 = int(rating2 + kb * (Sb - Eb))
     return newrating1, newrating2
+
+
+def expected_result(rating1, rating2):
+    exp = (rating2 - rating1)/400.
+    Ea = 1/(1 + math.pow(10, exp))
+    Eb = 1/(1 + math.pow(10, -exp))
+    return Ea, Eb
+
